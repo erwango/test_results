@@ -1,0 +1,1 @@
+<testsuites><testsuite errors="0" failures="0" name="nucleo_f746zg" skipped="0" tests="1" time="2.229470"><properties><property name="version" value="zephyr-v2.4.0-3255-g05f8dd9ab9a5" /></properties><testcase classname="sample.basic" name="sample.basic.helloworld" time="2.229470" /></testsuite></testsuites>
