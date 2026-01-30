@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite name="stm32l562e_dk/stm32l562xx" timestamp="2026-01-30T15:22:13.914188" time="1.92" tests="1" failures="0" errors="0" skipped="0">
+		<properties>
+			<property name="version" value="v4.3.0-5164-ge995e0c10bff" />
+		</properties>
+		<testcase classname="sample.basic.helloworld" name="sample.basic.helloworld" time="1.92" />
+	</testsuite>
+</testsuites>

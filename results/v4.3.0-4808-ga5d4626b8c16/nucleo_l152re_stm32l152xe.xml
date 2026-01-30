@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite name="nucleo_l152re/stm32l152xe" timestamp="2026-01-30T15:22:13.914188" time="6.03" tests="1" failures="0" errors="0" skipped="0">
+		<properties>
+			<property name="version" value="v4.3.0-5164-ge995e0c10bff" />
+		</properties>
+		<testcase classname="sample.basic.helloworld" name="sample.basic.helloworld" time="6.03" />
+	</testsuite>
+</testsuites>

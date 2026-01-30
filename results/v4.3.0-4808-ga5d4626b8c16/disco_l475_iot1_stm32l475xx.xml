@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite name="disco_l475_iot1/stm32l475xx" timestamp="2026-01-30T15:22:13.914188" time="3.01" tests="1" failures="0" errors="0" skipped="0">
+		<properties>
+			<property name="version" value="v4.3.0-5164-ge995e0c10bff" />
+		</properties>
+		<testcase classname="sample.basic.helloworld" name="sample.basic.helloworld" time="3.01" />
+	</testsuite>
+</testsuites>
